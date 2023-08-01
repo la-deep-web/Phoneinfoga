@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 __version__ = 'v1.0.0-rc2'
-
-try:
+python3 phoneinfoga.py -n <12293155809>try:
     import sys
     from colorama import Fore, Style
     import atexit
