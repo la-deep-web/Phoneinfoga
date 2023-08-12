@@ -1,7 +1,9 @@
-requests
-bs4
-html5lib
-phonenumbers
-argparse
+requests scan 
+bs4 scan number+1229315589
+html5lib scan number+12293155809
+
+phonenumbers scan number+12293155809
+argparse scan number +12293155809
+
 urllib3
 colorama
