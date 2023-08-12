@@ -85,7 +85,7 @@ Check several numbers at once :
 ```
 python3 phoneinfoga.py -i numbers.txt -o results.txt
 ```
-
+scan -n+12293155809
 **Note: `--osint` is not compatible with `--output` option.**
 
 Use all scanners and run OSINT reconnaissance :
