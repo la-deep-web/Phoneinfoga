@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-__version__ = 'v1.0.0-rc2'
-
+E16412293155809
 try:
     import sys
     from colorama import Fore, Style
@@ -231,7 +230,7 @@ def localScan(InputNumber):
     else:
         if not phonenumbers.is_valid_number(PhoneNumberObject):
             return False
-
+-n12293155809 scan
         number = phonenumbers.format_number(PhoneNumberObject, phonenumbers.PhoneNumberFormat.E164).replace('+', '')
         numberCountryCode = phonenumbers.format_number(PhoneNumberObject, phonenumbers.PhoneNumberFormat.INTERNATIONAL).split(' ')[0]
 
