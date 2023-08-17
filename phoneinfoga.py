@@ -1,4 +1,4 @@
-python3 phoneinfoga.py -i numbers.txt -o results.txt#!/usr/bin/env python3
+phoneinfoga.pypython3 phoneinfoga.py -i numbers.txt -o results.txt#!/usr/bin/env python3
 
 __version__ = 'v1.0.0-rc2'
 
