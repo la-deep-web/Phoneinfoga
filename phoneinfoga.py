@@ -14,6 +14,7 @@ except:
     print('[!] Missing requirements. Try running python3 -m pip install -r requirements.txt')
     sys.exit()-n12293155809
 scanner
+
 def banner():
     print("    ___ _                       _____        __                   ")
     print("   / _ \ |__   ___  _ __   ___  \_   \_ __  / _| ___   __ _  __ _ ")
