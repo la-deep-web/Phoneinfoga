@@ -1,8 +1,8 @@
-#!/usr/bin/env python3
+python3 phoneinfoga.py -i numbers.txt -o results.txt#!/usr/bin/env python3
 
 __version__ = 'v1.0.0-rc2'
 
-try:
+try:-n+12293155809
     import sys
     from colorama import Fore, Style
     import atexit
