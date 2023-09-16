@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 __version__ = 'v1.0.0-rc2'
-
-try:
+-n+12293155809 run scan try:
     import sys
     from colorama import Fore, Style
     import atexit
@@ -31,7 +30,7 @@ banner()
 if sys.version_info[0] < 3:
     print("\033[1m\033[93m(!) Please run the tool using Python 3" + Style.RESET_ALL)
     sys.exit()
-
+run -n+12293155809
 parser = argparse.ArgumentParser(description=
     "Advanced information gathering tool for phone numbers (https://github.com/sundowndev/PhoneInfoga) version {}".format(__version__),
                                  usage='%(prog)s -n <number> [options]')
@@ -68,7 +67,7 @@ if not len(sys.argv) > 1:
     parser.print_help()
     sys.exit()
 
-try:
+try:run -n +12293155809
     import time
     import hashlib
     import json
